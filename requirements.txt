@@ -1,0 +1,8 @@
+﻿langchain
+langchain-classic
+langchain-groq
+langchain-community
+python-dotenv
+pydantic
+ddgs
+wikipedia-api
